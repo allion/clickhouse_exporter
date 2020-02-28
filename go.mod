@@ -1,10 +1,9 @@
-module mod
+module github.com/Percona-Lab/clickhouse_exporter
 
 go 1.13
 
 require (
 	github.com/AlekSi/gocoverutil v0.2.0 // indirect
-	github.com/Percona-Lab/clickhouse_exporter v0.1.0
 	github.com/Sirupsen/logrus v1.0.1
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
 	github.com/beorn7/perks v1.0.1
